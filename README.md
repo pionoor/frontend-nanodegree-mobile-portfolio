@@ -30,7 +30,7 @@ Some useful tips to help you get started:
 
 ##  Optimization
 
-    Image compression: images were rescaled and resized to the final layout dimensions.
+    Image compression: images were rescaled and resized to per google PageSpeed Insights.
 
     Inline critical CSS: critical above-the-fold content styles are inlined and applied to the document immediately vs. blocking loading. This was done using the methods prescribed by Google Developers.
 
